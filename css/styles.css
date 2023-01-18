@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(228, 227, 227);
+}
+h1{
+    color: #318f8f;
+}
+h3{
+    color: #2b8787;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    /* hidden none dotted dashed solid double groove ridge insert  */
+    border-color: grey;
+    border-width: 5px;
+    height: 1.5px;
+    width:5%;
+}
+img{
+    height: 200px;
+    background-color: red;
+    border: 2px none;
+    border-radius: 500px;
+}
+
+/*  */
